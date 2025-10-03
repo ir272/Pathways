@@ -1,5 +1,4 @@
-# Pathways
-
+# Pathways (Grand Prize Winner @ WarriorHacks 2025 🏆)
 ## Inspiration
 
 We noticed the search for opportunities is broken: students who truly need programs and scholarships can't find them, and on top of this, they're hard to find and oftentimes not a match.
